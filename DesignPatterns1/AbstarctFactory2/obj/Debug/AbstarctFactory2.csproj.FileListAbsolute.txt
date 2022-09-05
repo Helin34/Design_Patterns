@@ -1,0 +1,7 @@
+C:\Users\helin\source\repos\DesignPatterns1\AbstarctFactory2\bin\Debug\AbstarctFactory2.exe.config
+C:\Users\helin\source\repos\DesignPatterns1\AbstarctFactory2\bin\Debug\AbstarctFactory2.exe
+C:\Users\helin\source\repos\DesignPatterns1\AbstarctFactory2\bin\Debug\AbstarctFactory2.pdb
+C:\Users\helin\source\repos\DesignPatterns1\AbstarctFactory2\obj\Debug\AbstarctFactory2.csproj.AssemblyReference.cache
+C:\Users\helin\source\repos\DesignPatterns1\AbstarctFactory2\obj\Debug\AbstarctFactory2.csproj.CoreCompileInputs.cache
+C:\Users\helin\source\repos\DesignPatterns1\AbstarctFactory2\obj\Debug\AbstarctFactory2.exe
+C:\Users\helin\source\repos\DesignPatterns1\AbstarctFactory2\obj\Debug\AbstarctFactory2.pdb

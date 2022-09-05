@@ -1,0 +1,7 @@
+C:\Users\helin\source\repos\DesignPatterns1\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+C:\Users\helin\source\repos\DesignPatterns1\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\helin\source\repos\DesignPatterns1\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\helin\source\repos\DesignPatterns1\Adapter\bin\Debug\Adapter.exe
+C:\Users\helin\source\repos\DesignPatterns1\Adapter\bin\Debug\Adapter.pdb
+C:\Users\helin\source\repos\DesignPatterns1\Adapter\obj\Debug\Adapter.exe
+C:\Users\helin\source\repos\DesignPatterns1\Adapter\obj\Debug\Adapter.pdb

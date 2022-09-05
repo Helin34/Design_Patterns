@@ -1,0 +1,7 @@
+C:\Users\helin\source\repos\DesignPatterns1\Facade\bin\Debug\Facade.exe.config
+C:\Users\helin\source\repos\DesignPatterns1\Facade\bin\Debug\Facade.exe
+C:\Users\helin\source\repos\DesignPatterns1\Facade\bin\Debug\Facade.pdb
+C:\Users\helin\source\repos\DesignPatterns1\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+C:\Users\helin\source\repos\DesignPatterns1\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\helin\source\repos\DesignPatterns1\Facade\obj\Debug\Facade.exe
+C:\Users\helin\source\repos\DesignPatterns1\Facade\obj\Debug\Facade.pdb

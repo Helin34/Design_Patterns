@@ -1,0 +1,6 @@
+C:\Users\helin\source\repos\DesignPatterns1\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\helin\source\repos\DesignPatterns1\Prototype\bin\Debug\Prototype.exe
+C:\Users\helin\source\repos\DesignPatterns1\Prototype\bin\Debug\Prototype.pdb
+C:\Users\helin\source\repos\DesignPatterns1\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\helin\source\repos\DesignPatterns1\Prototype\obj\Debug\Prototype.exe
+C:\Users\helin\source\repos\DesignPatterns1\Prototype\obj\Debug\Prototype.pdb

@@ -1,0 +1,7 @@
+C:\Users\helin\source\repos\DesignPatterns1\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\helin\source\repos\DesignPatterns1\Bridge\bin\Debug\Bridge.exe
+C:\Users\helin\source\repos\DesignPatterns1\Bridge\bin\Debug\Bridge.pdb
+C:\Users\helin\source\repos\DesignPatterns1\Bridge\obj\Debug\Bridge.csproj.AssemblyReference.cache
+C:\Users\helin\source\repos\DesignPatterns1\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\helin\source\repos\DesignPatterns1\Bridge\obj\Debug\Bridge.exe
+C:\Users\helin\source\repos\DesignPatterns1\Bridge\obj\Debug\Bridge.pdb

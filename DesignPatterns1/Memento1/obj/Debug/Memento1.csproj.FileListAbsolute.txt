@@ -1,0 +1,7 @@
+C:\Users\helin\source\repos\DesignPatterns1\Memento1\bin\Debug\Memento1.exe.config
+C:\Users\helin\source\repos\DesignPatterns1\Memento1\bin\Debug\Memento1.exe
+C:\Users\helin\source\repos\DesignPatterns1\Memento1\bin\Debug\Memento1.pdb
+C:\Users\helin\source\repos\DesignPatterns1\Memento1\obj\Debug\Memento1.csproj.AssemblyReference.cache
+C:\Users\helin\source\repos\DesignPatterns1\Memento1\obj\Debug\Memento1.csproj.CoreCompileInputs.cache
+C:\Users\helin\source\repos\DesignPatterns1\Memento1\obj\Debug\Memento1.exe
+C:\Users\helin\source\repos\DesignPatterns1\Memento1\obj\Debug\Memento1.pdb

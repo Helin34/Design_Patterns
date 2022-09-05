@@ -1,0 +1,7 @@
+C:\Users\helin\source\repos\DesignPatterns1\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\helin\source\repos\DesignPatterns1\Strategy\bin\Debug\Strategy.exe
+C:\Users\helin\source\repos\DesignPatterns1\Strategy\bin\Debug\Strategy.pdb
+C:\Users\helin\source\repos\DesignPatterns1\Strategy\obj\Debug\Strategy.csproj.AssemblyReference.cache
+C:\Users\helin\source\repos\DesignPatterns1\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\helin\source\repos\DesignPatterns1\Strategy\obj\Debug\Strategy.exe
+C:\Users\helin\source\repos\DesignPatterns1\Strategy\obj\Debug\Strategy.pdb
